@@ -1,0 +1,18 @@
+Struktur Proyek Aplikasi Android:
+
+1. Folder res/ (resources)
+   - layouts/ : file layout XML untuk tampilan UI
+   - values/ : file XML untuk string, warna, dimensi
+   - drawable/ : gambar dan ikon
+
+2. Folder java/ atau kotlin/
+   - Tempat kode sumber aplikasi (class, activity, dll)
+
+3. AndroidManifest.xml
+   - File konfigurasi utama aplikasi (permissions, activity, dll)
+
+4. build.gradle
+   - File konfigurasi build project (versi SDK, dependencies)
+
+5. Folder lainnya
+   - assets/, test/, dll
